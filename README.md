@@ -2,7 +2,7 @@
 ## 1.1. Introduction
 - Show Business Results by Year.
 - Identify Customer Behaviours and Target Market.
-- Compare Scheduled and Actual Shipping Days. How to optimize On Time Shipping ?
+- Compare Scheduled and Actual Shipping Days. How to optimize On-Time Shipping ?
 ## 1.2. Methodology 
 - Collect data from DataCo Global.
 - Use SQL to clean and analyze data. [View](https://github.com/huyvofjh/SupplyChainProjects/blob/main/SupplyChainAnalysis/SupplyChain.sql) to get details. 
