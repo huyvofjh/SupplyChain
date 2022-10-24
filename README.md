@@ -1,7 +1,7 @@
 # 1. Supply Chain Analysis 
 ## 1.1. Introduction
 - Show Business Results by Year.
-- Show Business Results by Year.
+- Identify Customer Behaviours and Target Market.
 - Compare Scheduled and Actual Shipping Days. How to optimize On Time Shipping ?
 ## 1.2. Methodology 
 - Collect data from DataCo Global.
